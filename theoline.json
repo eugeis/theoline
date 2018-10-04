@@ -1,0 +1,2141 @@
+{
+  "title" : {
+    "start_date" : { "year": "2017" },
+    "end_date" : { "year": "2017" },
+    "text" : {
+      "headline" : "Zeittafel der Christlichen Theologie",
+      "text" : "\n    <div class=\"intro\">\n        <div>\n            <p><i>Kreative Facharbeit für den Kurs\n            <a href=\"http://www.lza.de/kurse/gm/gm-1-b-zeitzonen-zeitzeugen-zeitgeist-2017\" target=\"_blank\">\n            ZEITZONEN, ZEITZEUGEN, ZEITGEIST (GM 1-B)</a>. Eugen Eisler</i></p>\n\n            <ul>\n                <li>Dozent: Dr. Wolfgang Schnabel</li>\n                <li>Fach: Geschichte & Methoden</li>\n                <li>Kurs: Zeitzonen, Zeitzeugen, Zeitgeist –Theologie und Entwicklung der Praktischen Theologie (GM 1)</li>\n            </ul>\n            <br>\n            <p>In dieser interaktiven Zeittafel sind die wesentlichen Strömungen der christlichen Theologie und\n            deren wichtigsten Vertreter in deutschsprachigen Raum zusammengefasst.<br></p>\n            <p><i>Hinweis: Die untere Zeitleiste lässt sich auf der horizontalen Achse bewegen und somit zu dem gewünschten Zeitraum navigieren.\n            Über die '+' und '-' Schaltflächen auf der Linke Seite lässt sich der Zeitraster vergrössern bzw. verkleinern.</i></p>\n        </div>\n\n    </div>\n"
+    },
+    "unique_id" : "",
+    "group" : "",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : ""
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  },
+  "events" : [ {
+    "start_date" : { "year": "0400" },
+    "end_date" : { "year": "1000" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Augustinismus\" target=\"_blank\">Augustinismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Begegnung mit dem Manichäismus: Zwei-Reiche-Lehre</li>\n    <li>Begegnung mit dem Neuplatonismus: Gotteslehre, Sündenlehre, Auferstehungsglaube</li>\n    <li>Begegnung mit dem Donatismus: Kirchen- und Sakramentenlehre</li>\n    <li>Begegnung mit dem Pelagianismus: Sünden- und Gnadenlehre</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-augustinus-von-hippo\" onclick=\"timeline.goToId('augustinus-von-hippo');\">Augustinus von Hippo</a></li>\n    <li><a href=\"#event-prosper-von-aquitanien\" onclick=\"timeline.goToId('prosper-von-aquitanien');\">Prosper von Aquitanien</a></li></ul>"
+    },
+    "unique_id" : "augustinismus",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Augustinismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2d9"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0354" },
+    "end_date" : { "year": "0429" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Augustinus_von_Hippo\" target=\"_blank\">Augustinus von Hippo</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-augustinismus\" onclick=\"timeline.goToId('augustinismus');\">Augustinismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AugustineLateran.jpg/351px-AugustineLateran.jpg\" height=\"160px\"/><q class=\"q\">Sagt einer zu mir: Ich will erkennen, um zu glauben, so erwidere ich: Glaube, um zu erkennen.</q>"
+    },
+    "unique_id" : "augustinus-von-hippo",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Augustinus_von_Hippo",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2d9"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0389" },
+    "end_date" : { "year": "0455" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Prosper_Tiro_von_Aquitanien\" target=\"_blank\">Prosper von Aquitanien</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-augustinismus\" onclick=\"timeline.goToId('augustinismus');\">Augustinismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AugustineLateran.jpg/351px-AugustineLateran.jpg\" height=\"160px\"/><q class=\"q\">Das Gesetz des Betens soll das Gesetz des Glaubens bestimmen.</q>"
+    },
+    "unique_id" : "prosper-von-aquitanien",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Prosper_Tiro_von_Aquitanien",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2d9"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0900" },
+    "end_date" : { "year": "1100" },
+    "text" : {
+      "headline" : "<a href=\"http://u01151612502.user.hosting-agency.de/malexwiki/index.php/Fr%C3%BChscholastik\" target=\"_blank\">Frühscholastik</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Entwicklung der theologischen Methode durch philosophische Mittel (Dialektik)</li>\n    <li>Kommentierung der Kirchenväter (sententia/sensus)</li>\n    <li>Streit zwischen Nominalismus und Realismus</li>\n    <li>Reform des Klosterwesens (Cluniancenser-Bewegung)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-anselm-von-canterbury\" onclick=\"timeline.goToId('anselm-von-canterbury');\">Anselm von Canterbury</a></li></ul>"
+    },
+    "unique_id" : "fruehscholastik",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebebe0"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1033" },
+    "end_date" : { "year": "1109" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Anselm_von_Canterbury\" target=\"_blank\">Anselm von Canterbury</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-fruehscholastik\" onclick=\"timeline.goToId('fruehscholastik');\">Frühscholastik</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/bf/Illuminated_initial_from_Anselm%27s_Monologion.jpg\" height=\"160px\"/><q class=\"q\">Also Herr, der du die Glaubenseinsicht gibst, verleihe mir, dass ich einsehe, dass du bist, wie wir glauben, und das bist, was wir glauben. Und zwar glauben wir, dass du etwas bist, über dem nichts Größeres hinausgedacht werden kann.</q>"
+    },
+    "unique_id" : "anselm-von-canterbury",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Anselm_von_Canterbury",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebebe0"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1300" },
+    "end_date" : { "year": "1520" },
+    "text" : {
+      "headline" : "Vorreformation",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Vom Realismus geprägte Erkenntnislehre</li>\n    <li>Biblizistische Schriftlehre (gültiges Wort ewiger Wahrheiten)</li>\n    <li>Kirchliche Reformgedanken (Prädestination, Kardinaltugenden Christi Armut, Demut, Leidensbereitschaft, Abendmahl in beiderlei Gestalt)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-john-wyclif\" onclick=\"timeline.goToId('john-wyclif');\">John Wyclif</a></li>\n    <li><a href=\"#event-jan-hus\" onclick=\"timeline.goToId('jan-hus');\">Jan Hus</a></li></ul>"
+    },
+    "unique_id" : "vorreformation",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffcccc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1330" },
+    "end_date" : { "year": "1384" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/John_Wyclif\" target=\"_blank\">John Wyclif</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-vorreformation\" onclick=\"timeline.goToId('vorreformation');\">Vorreformation</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/c1/John_Wycliffe.jpg\" height=\"160px\"/><q class=\"q\">Von Beginn meiner Studienzeit an habe ich mir zur Regel gemacht, dass ich, so oft ich, in welcher Sache auch immer, eine vernünftige Meinung wahrnahm, in Freuden und Demut von der zuvor gehegten abging in dem Wissen, dass das, was wir wissen, gegenüber dem, was wir nicht wissen, überaus gering ist</q>"
+    },
+    "unique_id" : "john-wyclif",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/John_Wyclif",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffcccc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1371" },
+    "end_date" : { "year": "1414" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Jan_Hus\" target=\"_blank\">Jan Hus</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-vorreformation\" onclick=\"timeline.goToId('vorreformation');\">Vorreformation</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BildnisJanHus1562.jpg/428px-BildnisJanHus1562.jpg\" height=\"160px\"/><q class=\"q\">Deshalb ist die Unverschämtheit derer groß, die sich der Welt hingegeben haben, ein völlig lasterhaftes Leben führen und in der Erfüllung der Täte und Gebote Christi noch unfruchtbarer sind, dass sie ohne göttliche Furcht behaupten, sie wären Häupter oder der Leib oder Hauptglieder der Kirche, die die Braut Christi ist.</q>"
+    },
+    "unique_id" : "jan-hus",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Jan_Hus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffcccc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1520" },
+    "end_date" : { "year": "1570" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Reformation#Grundlagen_reformatorischer_Theologie\" target=\"_blank\">Reformatorische Theologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Solus Christus: Gegen Mariologie, Heiligenverehrung, Messopfer, Papstprimat</li>\n    <li>Sola gratia: Gegen Ablass, Verdienst- bzw. Kirchenschatzlehre, Ohrenbeichte mit Genugtuung, Freier Wille</li>\n    <li>Sola scriptura: Gegen Zölibat, Entzug des Laienkelchs, geistliche Obrigkeit, Fegefeuer, Gelübde, Wallfahrten, Siebenzahl der Sakramente, Unfehlbarkeit der Konzilien</li>\n    <li>Verbindung von Kirche und Staat, Festhalten an der Kindertaufe und den altkirchlichen Glaubensbekenntnissen</li>\n    <li>Auseinandersetzung mit Zeitströmungen (Scholastik, Humanismus, Schwärmer...)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-martin-luther\" onclick=\"timeline.goToId('martin-luther');\">Martin Luther</a></li>\n    <li><a href=\"#event-huldrych-zwingli\" onclick=\"timeline.goToId('huldrych-zwingli');\">Huldrych Zwingli</a></li>\n    <li><a href=\"#event-andreas-bodenstein\" onclick=\"timeline.goToId('andreas-bodenstein');\">Andreas Bodenstein</a></li>\n    <li><a href=\"#event-philipp-melanchthon\" onclick=\"timeline.goToId('philipp-melanchthon');\">Philipp Melanchthon</a></li>\n    <li><a href=\"#event-johannes-calvin\" onclick=\"timeline.goToId('johannes-calvin');\">Johannes Calvin</a></li></ul>"
+    },
+    "unique_id" : "reformatorische-theologie",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Reformation#Grundlagen_reformatorischer_Theologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1482" },
+    "end_date" : { "year": "1546" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Martin_Luther\" target=\"_blank\">Martin Luther</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-reformatorische-theologie\" onclick=\"timeline.goToId('reformatorische-theologie');\">Reformatorische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MartinLuther-workshopCranachElder.jpg/320px-MartinLuther-workshopCranachElder.jpg\" height=\"160px\"/><q class=\"q\">Die Gerechtigkeit Gottes: Das ist nicht die Gerechtigkeit als Eigenschaft Gottes, sondern als die Gerechtigkeit, mit der er den Menschen bekleidet, wenn er den Sünder gerecht macht.</q>"
+    },
+    "unique_id" : "martin-luther",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Martin_Luther",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1483" },
+    "end_date" : { "year": "1531" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Huldrych_Zwingli\" target=\"_blank\">Huldrych Zwingli</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-reformatorische-theologie\" onclick=\"timeline.goToId('reformatorische-theologie');\">Reformatorische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ulrich-Zwingli-1.jpg/171px-Ulrich-Zwingli-1.jpg\" height=\"160px\"/><q class=\"q\">Was Gott tut, das tut er frei von jeglichem Affekt und daher auch ohne Sünde. Wie der Ehebruch Davids, insofern er auf Gott als Urheber zurückgeht, für Gott keine Sünde ist ... Denn alles gehört ihm.</q>"
+    },
+    "unique_id" : "huldrych-zwingli",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Huldrych_Zwingli",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1486" },
+    "end_date" : { "year": "1541" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Andreas_Bodenstein\" target=\"_blank\">Andreas Bodenstein</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-reformatorische-theologie\" onclick=\"timeline.goToId('reformatorische-theologie');\">Reformatorische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/UB_Basel_Portr_Falk_176.jpg/388px-UB_Basel_Portr_Falk_176.jpg\" height=\"160px\"/><q class=\"q\">Ja, ich muß nit allein euch, sondern mich selber gelassen, ich darf mich meines Leybs und Lebens nit annehmen… Ich weiß, daß ich gelassen sein muß … ich weiß, daß kein größer Tugend auf Erden und im Himmel ist dann Gelassenheit…</q>"
+    },
+    "unique_id" : "andreas-bodenstein",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Andreas_Bodenstein",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1497" },
+    "end_date" : { "year": "1560" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Philipp_Melanchthon\" target=\"_blank\">Philipp Melanchthon</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-reformatorische-theologie\" onclick=\"timeline.goToId('reformatorische-theologie');\">Reformatorische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PhilippMelanchthon.jpg/168px-PhilippMelanchthon.jpg\" height=\"160px\"/><q class=\"q\">Die Geheimnisse der Gottheit sollen wir besser anbeten als erforschen... Es gibt demnach keinen Grund, auf die Spitzensätze über Gott, Gottes Einheit, Gottes Dreifaltigkeit, das Geheimnis der Schöpfung und die Art und Weise der Fleischwerdung viel Mühe zu verwenden.</q>"
+    },
+    "unique_id" : "philipp-melanchthon",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Philipp_Melanchthon",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1509" },
+    "end_date" : { "year": "1564" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Johannes_Calvin\" target=\"_blank\">Johannes Calvin</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-reformatorische-theologie\" onclick=\"timeline.goToId('reformatorische-theologie');\">Reformatorische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/John_Calvin_by_Holbein.png/187px-John_Calvin_by_Holbein.png\" height=\"160px\"/><q class=\"q\">Vorherbestimmung nennen wir Gottes ewigen Beschluss, durch den er bei sich festsetzte, was nach seinem Willen aus jedem einzelnen Menschen werden sollte. Denn nicht alle werden mit der gleichen Bestimmung geschaffen, sondern den einen wird das ewige Leben, den anderen die ewige Verdammnis vorher zugeordnet.</q>"
+    },
+    "unique_id" : "johannes-calvin",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Johannes_Calvin",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1525" },
+    "end_date" : { "year": "1538" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/T%C3%A4ufer\" target=\"_blank\">Täufertum</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Ablehnung der Kindertaufe, Betonung der Erwachsenentaufe</li>\n    <li>Heilige Gemeinde: Abgrenzung zum Staat und zu Kirchen, gesetzliche Ethik</li>\n    <li>Forderung nach Religionsfreiheit, Leidensbereitschaft</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-balthasar-hubmaier\" onclick=\"timeline.goToId('balthasar-hubmaier');\">Balthasar Hubmaier</a></li></ul>"
+    },
+    "unique_id" : "taeufertum",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/T%C3%A4ufer",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffeecc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1485" },
+    "end_date" : { "year": "1527" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Balthasar_Hubmaier\" target=\"_blank\">Balthasar Hubmaier</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-taeufertum\" onclick=\"timeline.goToId('taeufertum');\">Täufertum</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Balthasar_Hubmaier.png/180px-Balthasar_Hubmaier.png\" height=\"160px\"/><q class=\"q\">So bekennen wir unverhohlen, dass wir in der Kindheit nicht getauft worden sind. Wir lassen uns taufen kraft des ernstlichen Befehls Christi und der Apostel.</q>"
+    },
+    "unique_id" : "balthasar-hubmaier",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Balthasar_Hubmaier",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffeecc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1570" },
+    "end_date" : { "year": "1690" },
+    "text" : {
+      "headline" : "<a href=\"http://shop.epvintranet.de/ortswechsel/ow_maschinerie.php?aktion=zeigetext&getParam=lt0364\" target=\"_blank\">Altprotestantische Orthodoxie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Die Rezeption der scholastischen Schulphilosophie mit Differenzierung und Intellektualisierung</li>\n    <li>Die Sicherung der reformatorischen Lehre in Systemen mit Hilfe der Locimethode, der analytischen Methode und der synthetischen Methode</li>\n    <li>Die Gewissheit um die an der Hl. Schrift gewonnene Wahrheitserkenntnis</li>\n    <li>Der Absolutheitsanspruch für die eigene Konfession</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-jakob-andreae\" onclick=\"timeline.goToId('jakob-andreae');\">Jakob Andreae</a></li>\n    <li><a href=\"#event-johann-gerhard\" onclick=\"timeline.goToId('johann-gerhard');\">Johann Gerhard</a></li></ul>"
+    },
+    "unique_id" : "altprotestantische-orthodoxie",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2d9e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1527" },
+    "end_date" : { "year": "1590" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Jakob_Andreae\" target=\"_blank\">Jakob Andreae</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-altprotestantische-orthodoxie\" onclick=\"timeline.goToId('altprotestantische-orthodoxie');\">Altprotestantische Orthodoxie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/c7/Andreae-ja4.jpg\" height=\"160px\"/><q class=\"q\">Wir glauben und lehren und bekennen einmütig, dass zur Zeit der Verfolgung in solchen Mitteldingen den Feinden nicht nachgegangen werden darf. Denn in diesem Fall ist es nicht mehr um Mitteldinge, sondern um die Wahrheit des Evangeliums.</q>"
+    },
+    "unique_id" : "jakob-andreae",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Jakob_Andreae",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2d9e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1582" },
+    "end_date" : { "year": "1636" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Johann_Gerhard\" target=\"_blank\">Johann Gerhard</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-altprotestantische-orthodoxie\" onclick=\"timeline.goToId('altprotestantische-orthodoxie');\">Altprotestantische Orthodoxie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Johannes-Gerhard.jpg/165px-Johannes-Gerhard.jpg\" height=\"160px\"/><q class=\"q\">Das Gebet ist die Himmelsleiter, auf der wir zu unserem Vater emporsteigen; beten heißt ja, im Geiste pilgern zu Gott.</q>"
+    },
+    "unique_id" : "johann-gerhard",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Johann_Gerhard",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2d9e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1650" },
+    "end_date" : { "year": "1780" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Pietismus\" target=\"_blank\">Pietismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Abneigung gegen Intellektualismus und metaphysische Spekulation</li>\n    <li>Betonung der individuellen Herzensfrömmigkeit und Sittlichkeit</li>\n    <li>Kirchliche Reformgedanken (praxis pietatis, ecclesiola in ecclesia)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-philipp-jakob-spener\" onclick=\"timeline.goToId('philipp-jakob-spener');\">Philipp Jakob Spener</a></li>\n    <li><a href=\"#event-august-hermann-francke\" onclick=\"timeline.goToId('august-hermann-francke');\">August Hermann Francke</a></li>\n    <li><a href=\"#event-johann-albrecht-bengel\" onclick=\"timeline.goToId('johann-albrecht-bengel');\">Johann Albrecht Bengel</a></li>\n    <li><a href=\"#event-nikolaus-ludwig-von-zinzendorf\" onclick=\"timeline.goToId('nikolaus-ludwig-von-zinzendorf');\">Nikolaus Ludwig von Zinzendorf</a></li></ul>"
+    },
+    "unique_id" : "pietismus",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Pietismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ddccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1635" },
+    "end_date" : { "year": "1704" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Philipp_Jacob_Spener\" target=\"_blank\">Philipp Jakob Spener</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-pietismus\" onclick=\"timeline.goToId('pietismus');\">Pietismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Philipp_jacob_spener.jpg/199px-Philipp_jacob_spener.jpg\" height=\"160px\"/><q class=\"q\">Es sollte auch dienlich sein, wenn wir wiederum die alte apostolische Art der Kirchenversammlungen in Gang brächten, wo neben unseren gewöhnlichen Predigten auch andere Versammlungen gehalten würden, wo nicht einer allein auftritt zu lehren, sondern auch andere.</q>"
+    },
+    "unique_id" : "philipp-jakob-spener",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Philipp_Jacob_Spener",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ddccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1663" },
+    "end_date" : { "year": "1726" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/August_Hermann_Francke\" target=\"_blank\">August Hermann Francke</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-pietismus\" onclick=\"timeline.goToId('pietismus');\">Pietismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/August-Hermann-Francke.jpg/172px-August-Hermann-Francke.jpg\" height=\"160px\"/><q class=\"q\">Die Ehre Gottes muss in allen Dingen, aber besonders in der Auferziehung und Unterweisung der Kinder als der Hauptzweck vor Augen sein, sowohl dem Praeceptor als den Untergebenen selbst. Ist es dem Praeceptor nicht ernsthaft um Gottes Ehre zu tun, werden die Kinder es nicht annehmen.</q>"
+    },
+    "unique_id" : "august-hermann-francke",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/August_Hermann_Francke",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ddccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1686" },
+    "end_date" : { "year": "1752" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Johann_Albrecht_Bengel\" target=\"_blank\">Johann Albrecht Bengel</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-pietismus\" onclick=\"timeline.goToId('pietismus');\">Pietismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/J_A_Bengel_von_J_D_Philipin.jpg/379px-J_A_Bengel_von_J_D_Philipin.jpg\" height=\"160px\"/><q class=\"q\">Wende dich ganz der Schrift zu. Wende das Ganze auf dich an.</q>"
+    },
+    "unique_id" : "johann-albrecht-bengel",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Johann_Albrecht_Bengel",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ddccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1700" },
+    "end_date" : { "year": "1759" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Nikolaus_Ludwig_von_Zinzendorf\" target=\"_blank\">Nikolaus Ludwig von Zinzendorf</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-pietismus\" onclick=\"timeline.goToId('pietismus');\">Pietismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nicolaus_ludwig_graf_zu_zinzendorf.jpg/197px-Nicolaus_ludwig_graf_zu_zinzendorf.jpg\" height=\"160px\"/><q class=\"q\">Bibelfest. Das heißt, mit dem Geist der Heiligen Schrift zu bekannt, dass wir an einer jedweden Rede den Augenblick hören, ob sie mit der Heiligen Schrift übereinkommt, ob sie in dem Geist der Schrift ist, dass wir, sobald wir was lesen, gleich sehen, ob es dem Geist der Schrift gemäß ist oder nicht.</q>"
+    },
+    "unique_id" : "nikolaus-ludwig-von-zinzendorf",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Nikolaus_Ludwig_von_Zinzendorf",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ddccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1820" },
+    "end_date" : { "year": "1870" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Neuluthertum\" target=\"_blank\">Neuluthertum</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Deutung der lutherischen Lehre durch persönliche Glaubenserfahrung</li>\n    <li>Verbindlichkeit und Irrtumslosigkeit der lutherischen Bekenntnisschriften</li>\n    <li>Betonung der Ekklesiologie: Kirche als Heilsinstutition, Sakramente als objektive Grundlagen der Kirche</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-ernst-wilhelm-hengstenberg\" onclick=\"timeline.goToId('ernst-wilhelm-hengstenberg');\">Ernst Wilhelm Hengstenberg</a></li></ul>"
+    },
+    "unique_id" : "neuluthertum",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Neuluthertum",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2ffcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1802" },
+    "end_date" : { "year": "1869" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Ernst_Wilhelm_Hengstenberg\" target=\"_blank\">Ernst Wilhelm Hengstenberg</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-neuluthertum\" onclick=\"timeline.goToId('neuluthertum');\">Neuluthertum</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hengstenberg%2C_Ernst_Wilhelm.jpg/493px-Hengstenberg%2C_Ernst_Wilhelm.jpg\" height=\"160px\"/><q class=\"q\">Wer der geringste alttestamentliche Stelle antastet, tastet Christus an.</q>"
+    },
+    "unique_id" : "ernst-wilhelm-hengstenberg",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Ernst_Wilhelm_Hengstenberg",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2ffcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1820" },
+    "end_date" : { "year": "1850" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Erweckungsbewegung\" target=\"_blank\">Erweckungsbewegung</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Ausgeprägtes Interesse an Evangelisation</li>\n    <li>Theologische Geschichtsdeutung (Frz. Revolution, Befreiungskriege)</li>\n    <li>Antirationalistischer Supranaturalismus: Gegen Bibel- und Dogmenkritik</li>\n    <li>Konservative Staatsauffassung</li>\n    <li>Interesse an Laientum, Diakonie, Askese</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-friedrich-august-gotttreu-tholuck\" onclick=\"timeline.goToId('friedrich-august-gotttreu-tholuck');\">Friedrich August Gotttreu Tholuck</a></li>\n    <li><a href=\"#event-johann-hinrich-wichern\" onclick=\"timeline.goToId('johann-hinrich-wichern');\">Johann Hinrich Wichern</a></li></ul>"
+    },
+    "unique_id" : "erweckungsbewegung",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Erweckungsbewegung",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffe0cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1798" },
+    "end_date" : { "year": "1877" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/August_Tholuck\" target=\"_blank\">Friedrich August Gotttreu Tholuck</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-erweckungsbewegung\" onclick=\"timeline.goToId('erweckungsbewegung');\">Erweckungsbewegung</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/d/d2/August_Tholuck.jpg\" height=\"160px\"/><q class=\"q\">Als die Flamme des Glaubens nur noch düster glomm, als weit über die Gemeinde Gottes hin Todesschlaf lag, erschallte aus dem Mund dessen, der gestern ist und heut: Wache auf, der du schläfst!</q>"
+    },
+    "unique_id" : "friedrich-august-gotttreu-tholuck",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/August_Tholuck",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffe0cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1808" },
+    "end_date" : { "year": "1881" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Johann_Hinrich_Wichern\" target=\"_blank\">Johann Hinrich Wichern</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-erweckungsbewegung\" onclick=\"timeline.goToId('erweckungsbewegung');\">Erweckungsbewegung</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Johann_Hinrich_Wichern.jpg/431px-Johann_Hinrich_Wichern.jpg\" height=\"160px\"/><q class=\"q\">Die innere Mission hat zu ihrem Zwecke die Rettung des evangelischen Volkes aus seiner geistigen und leiblichen Not durch die Verkündigung des Evangeliums und die brüderliche Handreichung der christlichen Liebe. Außer ihrer Aufgabe liegt es, Ungetaufte zu bekehren.</q>"
+    },
+    "unique_id" : "johann-hinrich-wichern",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Johann_Hinrich_Wichern",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffe0cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1840" },
+    "end_date" : { "year": "1920" },
+    "text" : {
+      "headline" : "Biblische Schule",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Realistischer Biblizismus</li>\n    <li>Überkonfessionalismus: Bekenntnisse ergänzen Schrift</li>\n    <li>Einheit von Offenbarung und Vernunft</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-martin-kaehler\" onclick=\"timeline.goToId('martin-kaehler');\">Martin Kähler</a></li>\n    <li><a href=\"#event-adolf-schlatter\" onclick=\"timeline.goToId('adolf-schlatter');\">Adolf Schlatter</a></li></ul>"
+    },
+    "unique_id" : "biblische-schule",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1834" },
+    "end_date" : { "year": "1912" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Martin_K%C3%A4hler\" target=\"_blank\">Martin Kähler</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-biblische-schule\" onclick=\"timeline.goToId('biblische-schule');\">Biblische Schule</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/8/8b/Martin_K%C3%A4hler_03.jpg\" height=\"160px\"/><q class=\"q\">Wir glauben nicht an Christum um der Bibel willen, sondern an die Bibel als auf das Wort unsres Gottes um ihres Christus willen.</q>"
+    },
+    "unique_id" : "martin-kaehler",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Martin_K%C3%A4hler",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1851" },
+    "end_date" : { "year": "1938" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Adolf_Schlatter\" target=\"_blank\">Adolf Schlatter</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-biblische-schule\" onclick=\"timeline.goToId('biblische-schule');\">Biblische Schule</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/de/thumb/3/31/Adolf_Schlatter_vor_1907.jpg/413px-Adolf_Schlatter_vor_1907.jpg\" height=\"160px\"/><q class=\"q\">Die Kenntnis Jesu ist das erste, unentbehrliche Hauptstück der ntl. Theologie. Wenn wir uns bestreben wahrzunehmen, welches die Überzeugungen sind, die das NT vertritt, tun wir den ersten Schritt dadurch, dass uns sichtbar wird, was Jesus als Gewissheit in sich trug.</q>"
+    },
+    "unique_id" : "adolf-schlatter",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Adolf_Schlatter",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccfff2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1920" },
+    "end_date" : { "year": "1970" },
+    "text" : {
+      "headline" : "Positive Theologie",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Festhalten an der biblischen Heilsgeschichte als Realgeschichte</li>\n    <li>Eröffnung eines Zugangs zu den Naturwissenschaften</li>\n    <li>Interesse an Apologetik und Verbreitung des Evangeliums im Säkularismus</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-karl-heim\" onclick=\"timeline.goToId('karl-heim');\">Karl Heim</a></li></ul>"
+    },
+    "unique_id" : "positive-theologie",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccdcff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1873" },
+    "end_date" : { "year": "1958" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Karl_Heim_(Theologe)\" target=\"_blank\">Karl Heim</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-positive-theologie\" onclick=\"timeline.goToId('positive-theologie');\">Positive Theologie</a>\n    </div><q class=\"q\">Gott, der alles in allem wirkt, wirkt auch im Satan. Aus demselben Grund müssen wir, weil wir sonst Gott verlieren, das 2. Sagen, das für unser menschliches Denken dem ersten wiederspricht... Es ist eine finstre Macht da, die Gott entthronen will, und es ist nicht selbstverständlich, dass diese Macht überwunden wird.</q>"
+    },
+    "unique_id" : "karl-heim",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Karl_Heim_(Theologe)",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccdcff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1920" },
+    "end_date" : { "year": "1960" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Dialektische_Theologie\" target=\"_blank\">Dialektische Theologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Neues Offenbarungsverständnis: uneingeschränkt autoritativ, exklusiv, geschichtslos, selbstbegründet, unreligiös</li>\n    <li>Neues Gottes- und Menschenverständnis: Trennung, Konfrontation</li>\n    <li>Neues Eschatologieverständnis: Gegenwart als Entscheidungsort</li>\n    <li>Neues Dialektikverständnis: Spannung zwischen These und Antithese</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-karl-barth\" onclick=\"timeline.goToId('karl-barth');\">Karl Barth</a></li>\n    <li><a href=\"#event-dietrich-bonhoeffer\" onclick=\"timeline.goToId('dietrich-bonhoeffer');\">Dietrich Bonhoeffer</a></li></ul>"
+    },
+    "unique_id" : "dialektische-theologie",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Dialektische_Theologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1886" },
+    "end_date" : { "year": "1968" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Karl_Barth\" target=\"_blank\">Karl Barth</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-dialektische-theologie\" onclick=\"timeline.goToId('dialektische-theologie');\">Dialektische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DBP_1986_1282_Karl_Barth.jpg/280px-DBP_1986_1282_Karl_Barth.jpg\" height=\"160px\"/><q class=\"q\">Wir sollen als Theologen von Gott reden. Wir sind aber Menschen und können als solche nicht von Gott reden. Wir sollen beides, unser Sollen und Nicht – Können, wissen und eben damit Gott die Ehre geben.</q>"
+    },
+    "unique_id" : "karl-barth",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Karl_Barth",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1906" },
+    "end_date" : { "year": "1945" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Dietrich_Bonhoeffer\" target=\"_blank\">Dietrich Bonhoeffer</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-dialektische-theologie\" onclick=\"timeline.goToId('dialektische-theologie');\">Dialektische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bundesarchiv_Bild_146-1987-074-16%2C_Dietrich_Bonhoeffer.jpg/377px-Bundesarchiv_Bild_146-1987-074-16%2C_Dietrich_Bonhoeffer.jpg\" height=\"160px\"/><q class=\"q\">Das Verhältnis von Vorletztem und Letztem im christlichen Leben kann in zwei extremen Formen gelöst werden, radikal und als Kompromiss. Beide Haltungen sind christuswidrig; denn was sich hier gegeneinander aufrichtet, ist in Christus eins.</q>"
+    },
+    "unique_id" : "dietrich-bonhoeffer",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1920" },
+    "end_date" : { "year": "1960" },
+    "text" : {
+      "headline" : "Luther-Renaissance",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Betonung der Gewissensreligion mit Gott im Mittelpunkt</li>\n    <li>Nähe zum Nationalsozialismus (Zwei-Reiche-Lehre)</li>\n    <li>Weiterinterpretation der Theologie Luthers</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-paul-althaus\" onclick=\"timeline.goToId('paul-althaus');\">Paul Althaus</a></li>\n    <li><a href=\"#event-immanuel-hirsch\" onclick=\"timeline.goToId('immanuel-hirsch');\">Immanuel Hirsch</a></li></ul>"
+    },
+    "unique_id" : "luther-renaissance",
+    "group" : "bibeltreue Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e0ccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1888" },
+    "end_date" : { "year": "1966" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Paul_Althaus\" target=\"_blank\">Paul Althaus</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-luther-renaissance\" onclick=\"timeline.goToId('luther-renaissance');\">Luther-Renaissance</a>\n    </div><q class=\"q\">Nicht weil wir Würde haben, liebt uns Gott, sondern weil Gott uns liebt, haben wir Würde.</q>"
+    },
+    "unique_id" : "paul-althaus",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Paul_Althaus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e0ccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1888" },
+    "end_date" : { "year": "1972" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Emanuel_Hirsch\" target=\"_blank\">Immanuel Hirsch</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-luther-renaissance\" onclick=\"timeline.goToId('luther-renaissance');\">Luther-Renaissance</a>\n    </div><q class=\"q\">Krieg ist ein Gottesurteil, aber nur das Volk hat das Recht, dieses Gottesurteil zu fordern, das bereit ist, sich nötigenfalls in diesem Kriege zu verbluten.</q>"
+    },
+    "unique_id" : "immanuel-hirsch",
+    "group" : "Offenbarungstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Emanuel_Hirsch",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e0ccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0125" },
+    "end_date" : { "year": "0160" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Gnosis\" target=\"_blank\">Gnosis</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Gnostische Denkstrukturen: Geschichtslosigkeit, Mythologisierung, Dualismus, radikalisierte Ethik</li>\n    <li>Gnostische Weltanschauung: Kreislaufmodell (Demiurg)</li></ul>"
+    },
+    "unique_id" : "gnosis",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Gnosis",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0200" },
+    "end_date" : { "year": "0600" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Alexandrinische_Schule\" target=\"_blank\">Alexandrinische Theologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Zyklisches Weltschema (Idee-Materie, Ideenwelt-Sinneswelt)</li>\n    <li>Gnosis als höhere Form der Erkenntnis gegenüber der Pistis</li>\n    <li>Freiere Interpretation der Glaubensregel durch Allegorese</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-clemens-von-alexandria\" onclick=\"timeline.goToId('clemens-von-alexandria');\">Clemens von Alexandria</a></li>\n    <li><a href=\"#event-origenes\" onclick=\"timeline.goToId('origenes');\">Origenes</a></li></ul>"
+    },
+    "unique_id" : "alexandrinische-theologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Alexandrinische_Schule",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffccf2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0159" },
+    "end_date" : { "year": "0215" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Clemens_von_Alexandria\" target=\"_blank\">Clemens von Alexandria</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-alexandrinische-theologie\" onclick=\"timeline.goToId('alexandrinische-theologie');\">Alexandrinische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/6/66/ClemensVonAlexandrien.jpg\" height=\"160px\"/><q class=\"q\">Schnell kommt man dazu, etwas zu tun, was nicht erlaubt ist, wenn man alles tut, was erlaubt ist.</q>"
+    },
+    "unique_id" : "clemens-von-alexandria",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Clemens_von_Alexandria",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffccf2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0185" },
+    "end_date" : { "year": "0254" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Origenes\" target=\"_blank\">Origenes</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-alexandrinische-theologie\" onclick=\"timeline.goToId('alexandrinische-theologie');\">Alexandrinische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg\" height=\"160px\"/><q class=\"q\">Unser körperliches Wesen muss in einen Zustand geistiger Leiblichkeit überführt werden, dann, wenn alle Dinge wiederhergestellt sind. Dies kann nicht auf einmal geschehen, sondern nur im Ablauf unendlicher Zeitalter.</q>"
+    },
+    "unique_id" : "origenes",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Origenes",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffccf2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0250" },
+    "end_date" : { "year": "0370" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Neuplatonismus\" target=\"_blank\">Neuplatonismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Der Weg von oben nach unten: Emanation, nicht Kreation</li>\n    <li>Der Weg unten: Defekt, nicht Sünde (Seelenwanderung)</li>\n    <li>Der Weg von unten nach oben: Verähnlichung, nicht Versöhnung</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-plotin\" onclick=\"timeline.goToId('plotin');\">Plotin</a></li></ul>"
+    },
+    "unique_id" : "neuplatonismus",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Neuplatonismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffcccc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "0204" },
+    "end_date" : { "year": "0270" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Plotin\" target=\"_blank\">Plotin</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-neuplatonismus\" onclick=\"timeline.goToId('neuplatonismus');\">Neuplatonismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/2/28/Plotinus_and_disciples.jpg\" height=\"160px\"/><q class=\"q\">Es ist nichts Seiendes, sonst würde auch hier das Eine nur von einem andern ausgesagt; ihm gebührt… kein Name, man wird es das Eine nennen, freilich nicht, als sei es sonst etwas, dann erst Eines. Es wird eher aus dem von ihm Gezeugten erkannt, dem Sein.</q>"
+    },
+    "unique_id" : "plotin",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Plotin",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffcccc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1200" },
+    "end_date" : { "year": "1300" },
+    "text" : {
+      "headline" : "<a href=\"http://u01151612502.user.hosting-agency.de/malexwiki/index.php/Hochscholastik\" target=\"_blank\">Hochscholastik</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Synthese zwischen christlichem Glauben und antiker Philosophie (Aristotelismus, Neuplatonismus)</li>\n    <li>Entwicklung der Methodik der Quastio (sic/contra/pro/respondeo/ad pro/ ad contra/solutio)</li>\n    <li>Streben nach harmonischem Ausgleich</li>\n    <li>Zeit der großen Systeme (Dominikaner/Thomas-Franziskaner/Duns)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-petrus-lombardus\" onclick=\"timeline.goToId('petrus-lombardus');\">Petrus Lombardus</a></li>\n    <li><a href=\"#event-thomas-von-aquin\" onclick=\"timeline.goToId('thomas-von-aquin');\">Thomas von Aquin</a></li></ul>"
+    },
+    "unique_id" : "hochscholastik",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffe6cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1100" },
+    "end_date" : { "year": "1160" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Petrus_Lombardus\" target=\"_blank\">Petrus Lombardus</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-hochscholastik\" onclick=\"timeline.goToId('hochscholastik');\">Hochscholastik</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/5/5d/Petrus_Lombardus.jpg\" height=\"160px\"/><q class=\"q\">In diesem Handeln wird das Geheimnis Christi und der Kirche dargestellt. So wie die Frau aus der Rippe Adams geformt wurde, während dieser schlief, so ist die Kirche aus den Sakramenten entstanden, die aus der Seite Christi zu strömen begannen, der am Kreuz schlief, also aus dem Blut und aus dem Wasser, mit dem wir von der Strafe erlöst und von der Schuld geläutert werden</q>"
+    },
+    "unique_id" : "petrus-lombardus",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Petrus_Lombardus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffe6cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1224" },
+    "end_date" : { "year": "1274" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Thomas_von_Aquin\" target=\"_blank\">Thomas von Aquin</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-hochscholastik\" onclick=\"timeline.goToId('hochscholastik');\">Hochscholastik</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/St-thomas-aquinas.jpg/319px-St-thomas-aquinas.jpg\" height=\"160px\"/><q class=\"q\">Kann der Mensch ohne Gnade sich zur Gnade vorbereiten? Antwort: Es gibt eine doppelte Vorbereitung des menschlichen Willens zum Guten: eine, wodurch der Mensch vorbereitet wird, gut zu wirken; und eine, die das Geschenk der Gnade zur Folge hat.(-)</q>"
+    },
+    "unique_id" : "thomas-von-aquin",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Thomas_von_Aquin",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffe6cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1300" },
+    "end_date" : { "year": "1520" },
+    "text" : {
+      "headline" : "<a href=\"http://u01151612502.user.hosting-agency.de/malexwiki/index.php/Sp%C3%A4tscholastik\" target=\"_blank\">Spätscholastik</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Vollendung der dialektischen Bearbeitung des theologischen Stoffes</li>\n    <li>Ablehnung des thomistischen Realismus und Aufleben des Nominalismus</li>\n    <li>Scharfe Kritik an der allgemeinen Kirchenlehre innerhalb der Dogmengrenze</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-wilhelm-von-ockham\" onclick=\"timeline.goToId('wilhelm-von-ockham');\">Wilhelm von Ockham</a></li></ul>"
+    },
+    "unique_id" : "spaetscholastik",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#eeffcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1287" },
+    "end_date" : { "year": "1347" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Wilhelm_von_Ockham\" target=\"_blank\">Wilhelm von Ockham</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-spaetscholastik\" onclick=\"timeline.goToId('spaetscholastik');\">Spätscholastik</a>\n    </div><q class=\"q\">Universalien sind nie eine einzigartige und einzeln vorkommende Substanz. Sie sind geistige Begriff, die ihrer Natur nach von mehreren Dingen ausgesagt werden können. Also sind nur geistige Begriffe oder willkürliche Zeichen Universalien.</q>"
+    },
+    "unique_id" : "wilhelm-von-ockham",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Wilhelm_von_Ockham",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#eeffcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1300" },
+    "end_date" : { "year": "1520" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Mystik\" target=\"_blank\">Mystik</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Erneuerung des Neuplatonismus (Seelenfunken/Seelenaufstieg)</li>\n    <li>Starke Betonung des Gefühls, der Kontemplation und der Askese</li>\n    <li>Ziel der Vereinigung mit Gott durch Reinigung, Erleuchtung, Vision</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-johannes-tauler\" onclick=\"timeline.goToId('johannes-tauler');\">Johannes Tauler</a></li></ul>"
+    },
+    "unique_id" : "mystik",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Mystik",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#fff2cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1300" },
+    "end_date" : { "year": "1361" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Johannes_Tauler\" target=\"_blank\">Johannes Tauler</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-mystik\" onclick=\"timeline.goToId('mystik');\">Mystik</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St-Pierre-le-Jeune_protestant-Tauler_%282%29.jpg/355px-St-Pierre-le-Jeune_protestant-Tauler_%282%29.jpg\" height=\"160px\"/><q class=\"q\">Die wahre Verkleinerung seiner selbst versinkt in den göttlichem inneren Abgrund Gottes. Da verliert man sich in völliger und wahrer Verlorenheit seines Selbst. 'Ein Abgrund ruft den anderen in sich hinein.'</q>"
+    },
+    "unique_id" : "johannes-tauler",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Johannes_Tauler",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#fff2cc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1400" },
+    "end_date" : { "year": "1550" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Humanismus\" target=\"_blank\">Humanismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Autonomie des Menschen anstelle der Theonomie</li>\n    <li>Weltbejahung statt Askese, Sinnlichkeit statt Überweltlichkeit</li>\n    <li>Individualisierung des christlichen Glaubens</li>\n    <li>Kirchliche Reformgedanken (Kritik an Intoleranz, Missständen und Dogmen, Forderung nach geistlichem Papsttum)</li>\n    <li>Erneuerung der griechischen Philosophie mit synkretistischer Universalschau</li>\n    <li>Bildungsanliegen (Sprachen, Quellen, freie Forschung, Geschichtskritik)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-johannes-reuchlin\" onclick=\"timeline.goToId('johannes-reuchlin');\">Johannes Reuchlin</a></li>\n    <li><a href=\"#event-erasmus-von-rotterdamm\" onclick=\"timeline.goToId('erasmus-von-rotterdamm');\">Erasmus von Rotterdamm</a></li></ul>"
+    },
+    "unique_id" : "humanismus",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Humanismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1454" },
+    "end_date" : { "year": "1521" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Johannes_Reuchlin\" target=\"_blank\">Johannes Reuchlin</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-humanismus\" onclick=\"timeline.goToId('humanismus');\">Humanismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johannes-Reuchlin-1516.jpg/248px-Johannes-Reuchlin-1516.jpg\" height=\"160px\"/><q class=\"q\">Verbrennt nicht, was ihr nicht kennt!</q>"
+    },
+    "unique_id" : "johannes-reuchlin",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Johannes_Reuchlin",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1469" },
+    "end_date" : { "year": "1536" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Erasmus_von_Rotterdam\" target=\"_blank\">Erasmus von Rotterdamm</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-humanismus\" onclick=\"timeline.goToId('humanismus');\">Humanismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hans_Holbein_d._J._046.jpg/198px-Hans_Holbein_d._J._046.jpg\" height=\"160px\"/><q class=\"q\">Was daher den Freien Willen betrifft, haben wir aus der Heiligen Schrift folgendes gelernt: Wenn wir uns auf dem Weg der Frömmigkeit befinden, sollen wir eifrig nach dem Besseren streben, indem wir vergessen, was dahinter liegt; wenn wir in Sünden verstrickt sind, sollen wir uns mit allen Kräften herauszuarbeiten versuchen.</q>"
+    },
+    "unique_id" : "erasmus-von-rotterdamm",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Erasmus_von_Rotterdam",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1600" },
+    "end_date" : { "year": "1700" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Deismus\" target=\"_blank\">Deismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Forderung nach religiöser Toleranz und Religionsfrieden</li>\n    <li>Betonung Der Zusammengehörigkeit von Wort und Tat</li>\n    <li>Beschränkung des Offenbarungsglaubens auf wenige Heilsartikel</li>\n    <li>Vorstellung von einem nicht eingreifenden Schöpfergott</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-john-locke\" onclick=\"timeline.goToId('john-locke');\">John Locke</a></li></ul>"
+    },
+    "unique_id" : "deismus",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Deismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffffe5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1631" },
+    "end_date" : { "year": "1703" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/John_Locke\" target=\"_blank\">John Locke</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-deismus\" onclick=\"timeline.goToId('deismus');\">Deismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/398px-John_Locke.jpg\" height=\"160px\"/><q class=\"q\">Der Geist hat bei allem Denken und Folgern kein anderes unmittelbares Objekt als seine eigenen Ideen… Daher ist es offensichtlich, dass es unsere Erkenntnis lediglich mit unseren Ideen zu tun hat.“</q>"
+    },
+    "unique_id" : "john-locke",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/John_Locke",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffffe5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1650" },
+    "end_date" : { "year": "1800" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Neologie\" target=\"_blank\">Neologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Vernunft wird durch Offenbarung nur bestätigt</li>\n    <li>Vereinfachung der christlichen Glaubenslehren durch kritischen Historismus</li>\n    <li>Bibelkritik durch Unterscheidung von Gotteswort und Bibelwort</li>\n    <li>Dogmenkritik durch Unterscheidung von Glaube und Lehramt</li>\n    <li>Kirchenkritik durch Unterscheidung von öffentlicher und privater Religion</li>\n    <li>Moralisierender Psychologismus und anthropologischer Optimismus</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-hermann-samuel-reimarus\" onclick=\"timeline.goToId('hermann-samuel-reimarus');\">Hermann Samuel Reimarus</a></li></ul>"
+    },
+    "unique_id" : "neologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Neologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebebe0"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1694" },
+    "end_date" : { "year": "1768" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Hermann_Samuel_Reimarus\" target=\"_blank\">Hermann Samuel Reimarus</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-neologie\" onclick=\"timeline.goToId('neologie');\">Neologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/3/3c/Hermann_Samuel_Reimarus.jpg\" height=\"160px\"/><q class=\"q\">Die vernünftige Religion muss also dem Menschen zuerst die Augen des Verstandes öffnen, dass er seinen Gedanken von den sinnlichen Dingen zu dem ersten unsichtbaren Wesen erheben lernt... diese Religion muss uns auch die Pflichten und Bestimmung der Menschen erklären.</q>"
+    },
+    "unique_id" : "hermann-samuel-reimarus",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Hermann_Samuel_Reimarus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebebe0"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1700" },
+    "end_date" : { "year": "1800" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Theologischer_Rationalismus\" target=\"_blank\">Rationalismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Vernunft leugnet jegliche Offenbarung</li>\n    <li>Umdeutung christlicher Grundlehren auf der Basis des Fortschrittsgedankens</li>\n    <li>Moralisierung durch natürliche Religion (Gott, Tugend, Unsterblichkeit)</li>\n    <li>Säkularisierung der Kultur und Individualisierung der Frömmigkeit</li>\n    <li>Veränderung des Welt- und Selbstbewusstseins</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-gotthold-e--lessing\" onclick=\"timeline.goToId('gotthold-e--lessing');\">Gotthold E. Lessing</a></li></ul>"
+    },
+    "unique_id" : "rationalismus",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Theologischer_Rationalismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e0ebeb"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1729" },
+    "end_date" : { "year": "1781" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Gotthold_Ephraim_Lessing\" target=\"_blank\">Gotthold E. Lessing</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-rationalismus\" onclick=\"timeline.goToId('rationalismus');\">Rationalismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/c/cd/Gotthold_Ephraim_Lessing.PNG\" height=\"160px\"/><q class=\"q\">Erziehung ist Offenbarung und Offenbarung ist Erziehung, die dem Menschengeschlecht geschehen ist und noch geschieht. In der Theologie kann es großen Nutzen haben, wenn man sich die Offenbarung als Erziehung des Menschengeschlechts vorstellt.</q>"
+    },
+    "unique_id" : "gotthold-e--lessing",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Gotthold_Ephraim_Lessing",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e0ebeb"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1700" },
+    "end_date" : { "year": "1750" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/%C3%9Cbergangstheologie\" target=\"_blank\">Übergangstheologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Vernunft wird durch Offenbarung ergänzt</li>\n    <li>Starkes apologetisches Interesse: gegen zersetzenden Kritik</li>\n    <li>Starkes Interesse an Kirchengeschichte und Dogmatik</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-gottfried-wilhelm-leibniz\" onclick=\"timeline.goToId('gottfried-wilhelm-leibniz');\">Gottfried Wilhelm Leibniz</a></li></ul>"
+    },
+    "unique_id" : "uebergangstheologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/%C3%9Cbergangstheologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccffcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1646" },
+    "end_date" : { "year": "1715" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz\" target=\"_blank\">Gottfried Wilhelm Leibniz</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-uebergangstheologie\" onclick=\"timeline.goToId('uebergangstheologie');\">Übergangstheologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/6/6a/Gottfried_Wilhelm_von_Leibniz.jpg\" height=\"160px\"/><q class=\"q\">Unter unzähligen Welten, die möglich sind, hat Gott nur eine erwählt und den anderen vorgezogen. Hieraus erhellt sich, dass die gegenwärtige Welt unter allen die beste ist, denn wir nennen die beste, darinnen die größte Vollkommenheit anzutreffen.</q>"
+    },
+    "unique_id" : "gottfried-wilhelm-leibniz",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccffcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1770" },
+    "end_date" : { "year": "1830" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Idealismus\" target=\"_blank\">Idealismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Geschichtsphilosophie im dialektischen Dreischritt </li>\n    <li>Harmonie von Religion und Philosophie</li>\n    <li>Betonung des Absoluten und der Vernunft</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-georg-wilhelm-friedrich-hegel\" onclick=\"timeline.goToId('georg-wilhelm-friedrich-hegel');\">Georg Wilhelm Friedrich Hegel</a></li></ul>"
+    },
+    "unique_id" : "idealismus",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Idealismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d6e0f5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1770" },
+    "end_date" : { "year": "1831" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel\" target=\"_blank\">Georg Wilhelm Friedrich Hegel</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-idealismus\" onclick=\"timeline.goToId('idealismus');\">Idealismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG/379px-1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG\" height=\"160px\"/><q class=\"q\">Die Weltgeschichte stellt den Stufengang der Entwicklung des Prinzips, dessen Gehalt die Freiheit ist, dar. Die 1. Stufe ist das Versenktsein des Geistes in die Natürlichkeit, die 2. das Heraustreten dessen in das Bewusstsein seiner Freiheit, die 3. Stufe ist die Erhebung aus dieser Freiheit in die reine Allgemeinheit derselben.</q>"
+    },
+    "unique_id" : "georg-wilhelm-friedrich-hegel",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d6e0f5"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1800" },
+    "end_date" : { "year": "1870" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Liberale_Theologie\" target=\"_blank\">Liberale Theologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Neuer Religionsbegriff mit Anthropozentrierung und Monismus</li>\n    <li>Festhalten an rationalistischer Bibel- und Dogmenkritik</li>\n    <li>Umdeutung des christlichen Glaubens in zentralen Punkten</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-friedrich-d-e--schleiermacher\" onclick=\"timeline.goToId('friedrich-d-e--schleiermacher');\">Friedrich D.E. Schleiermacher</a></li></ul>"
+    },
+    "unique_id" : "liberale-theologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Liberale_Theologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1768" },
+    "end_date" : { "year": "1833" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Friedrich_Schleiermacher\" target=\"_blank\">Friedrich D.E. Schleiermacher</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-liberale-theologie\" onclick=\"timeline.goToId('liberale-theologie');\">Liberale Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friedrich_Daniel_Ernst_Schleiermacher.jpg/438px-Friedrich_Daniel_Ernst_Schleiermacher.jpg\" height=\"160px\"/><q class=\"q\">Die Religion begehrt nicht, das Universum zu erklären wie die Metaphysik, sie begehrt nicht, es fortzubilden wie die Moral. Ihr Wesen ist weder Denken noch Handeln, sondern Anschauung und Gefühl.</q>"
+    },
+    "unique_id" : "friedrich-d-e--schleiermacher",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Friedrich_Schleiermacher",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ccccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1830" },
+    "end_date" : { "year": "1870" },
+    "text" : {
+      "headline" : "Kritisch- entwicklungsgeschichtliche Schule",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Radikale Bibelkritik: Sagen und Mythen</li>\n    <li>Radikale Gotteskritik: Projektionstheorie</li>\n    <li>Radikale Dogmentkritik: Dogma als Reaktion auf Zeitgeist/politik</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-ludwig-feuerbach\" onclick=\"timeline.goToId('ludwig-feuerbach');\">Ludwig Feuerbach</a></li>\n    <li><a href=\"#event-david-f--strauss\" onclick=\"timeline.goToId('david-f--strauss');\">David F. Strauss</a></li></ul>"
+    },
+    "unique_id" : "kritisch--entwicklungsgeschichtliche-schule",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2d9e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1804" },
+    "end_date" : { "year": "1872" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Ludwig_Feuerbach\" target=\"_blank\">Ludwig Feuerbach</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-kritisch--entwicklungsgeschichtliche-schule\" onclick=\"timeline.goToId('kritisch--entwicklungsgeschichtliche-schule');\">Kritisch- entwicklungsgeschichtliche Schule</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Feuerbach_Ludwig.jpg/460px-Feuerbach_Ludwig.jpg\" height=\"160px\"/><q class=\"q\">Die Religion wenigstens die christliche, ist das Verhalten des Menschen zu sich selbst, oder richtiger: zu seinem Wesen, aber das Verhalten zu seinem Wesen als zu einem anderen Wesen. Das göttliche Wesen ist nichts andres als menschliche Wesen.</q>"
+    },
+    "unique_id" : "ludwig-feuerbach",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Ludwig_Feuerbach",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2d9e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1808" },
+    "end_date" : { "year": "1873" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/David_Friedrich_Strau%C3%9F\" target=\"_blank\">David F. Strauss</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-kritisch--entwicklungsgeschichtliche-schule\" onclick=\"timeline.goToId('kritisch--entwicklungsgeschichtliche-schule');\">Kritisch- entwicklungsgeschichtliche Schule</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1908_David-Friedrich-Strauss.jpg/355px-1908_David-Friedrich-Strauss.jpg\" height=\"160px\"/><q class=\"q\">Das einfache historische Gerüst des Lebens Jesu... wurde mit den mannigfaltigsten Gewinden frommer Phantasien umgeben, in dem alle Ideen welche die erste Christenheit über ihren Meister hatte, in Tatsachen verwandelt, in seinen Lebenslauf eingewoben wurden.</q>"
+    },
+    "unique_id" : "david-f--strauss",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/David_Friedrich_Strau%C3%9F",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#f2d9e6"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1860" },
+    "end_date" : { "year": "1900" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Religionsgeschichtliche_Schule\" target=\"_blank\">Religionsgeschichtliche Schule</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Betonung der gescheiterten ntl. Naherwartung</li>\n    <li>Aufgabe des Absolutheitsanspruchs der christlichen Religion</li>\n    <li>Untersuchung der außerchristlichen Religionsgeschichte</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-ernst-troeltsch\" onclick=\"timeline.goToId('ernst-troeltsch');\">Ernst Troeltsch</a></li></ul>"
+    },
+    "unique_id" : "religionsgeschichtliche-schule",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Religionsgeschichtliche_Schule",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#cceeff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1865" },
+    "end_date" : { "year": "1923" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Ernst_Troeltsch\" target=\"_blank\">Ernst Troeltsch</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-religionsgeschichtliche-schule\" onclick=\"timeline.goToId('religionsgeschichtliche-schule');\">Religionsgeschichtliche Schule</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/de/thumb/c/c3/Troeltsch_1907.jpg/206px-Troeltsch_1907.jpg\" height=\"160px\"/><q class=\"q\">Die Konstruktion des Christentums als der absoluten Religion ist von historischer Denkweise aus und mit historischen Mitteln unmöglich, und in der Unmöglichkeit dieser Konstruktion ist vieles begründet, was sich in der Theologie unserer Tag matt ausnimmt.</q>"
+    },
+    "unique_id" : "ernst-troeltsch",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Ernst_Troeltsch",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#cceeff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1860" },
+    "end_date" : { "year": "1920" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Kulturprotestantismus\" target=\"_blank\">Kulturprotestantismus</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Optimistischer Fortschrittsglaube und verdiesseitigte Eschatologie</li>\n    <li>Verbindung von Christentum und Kultur, Thron und Altar</li>\n    <li>Forderung nach Glaubens- und Lehrfreiheit</li>\n    <li>Reduktion der Glaubenslehren auf eine natürliche Religion</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-albrecht-ritschl\" onclick=\"timeline.goToId('albrecht-ritschl');\">Albrecht Ritschl</a></li>\n    <li><a href=\"#event-adolf-von-harnack\" onclick=\"timeline.goToId('adolf-von-harnack');\">Adolf von Harnack</a></li></ul>"
+    },
+    "unique_id" : "kulturprotestantismus",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Kulturprotestantismus",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e5ffff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1821" },
+    "end_date" : { "year": "1888" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Albrecht_Ritschl_(Theologe)\" target=\"_blank\">Albrecht Ritschl</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-kulturprotestantismus\" onclick=\"timeline.goToId('kulturprotestantismus');\">Kulturprotestantismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/5/56/AlbrechtRitschl.jpg\" height=\"160px\"/><q class=\"q\">Das Reich Gottes ist der allgemeine Zweck der durch Gottes Offenbarung in Christus gestifteten Gemeinde, und ist das gemeinschaftliche Produkt derselben, indem deren Glieder auch durch eine bestimmte gegenseitige Handlungsweise verbinden.</q>"
+    },
+    "unique_id" : "albrecht-ritschl",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Albrecht_Ritschl_(Theologe)",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e5ffff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1850" },
+    "end_date" : { "year": "1930" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Adolf_von_Harnack\" target=\"_blank\">Adolf von Harnack</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-kulturprotestantismus\" onclick=\"timeline.goToId('kulturprotestantismus');\">Kulturprotestantismus</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Adolf_Harnack.jpg/380px-Adolf_Harnack.jpg\" height=\"160px\"/><q class=\"q\">Nicht der Sohn, sondern allein der Vater gehört in das Evangelium, wie es Jesus verkündigt hat, hinein.</q>"
+    },
+    "unique_id" : "adolf-von-harnack",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Adolf_von_Harnack",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e5ffff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1920" },
+    "end_date" : { "year": "1980" },
+    "text" : {
+      "headline" : "Philosophisch Korrelative Theologie",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Verschmelzung von Theologie und Philosophie </li>\n    <li>Umdeutung christlicher Dogmen zu Symbolen </li>\n    <li>Radikaler Laizismus: Zweifel = Glaube, Welt = Kirche</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-paul-tillich\" onclick=\"timeline.goToId('paul-tillich');\">Paul Tillich</a></li></ul>"
+    },
+    "unique_id" : "philosophisch-korrelative-theologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffddcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1886" },
+    "end_date" : { "year": "1965" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Paul_Tillich\" target=\"_blank\">Paul Tillich</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-philosophisch-korrelative-theologie\" onclick=\"timeline.goToId('philosophisch-korrelative-theologie');\">Philosophisch Korrelative Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bust_of_Paul_Johannes_Tillich_%28daylight%29.JPG/403px-Bust_of_Paul_Johannes_Tillich_%28daylight%29.JPG\" height=\"160px\"/><q class=\"q\">Beim Gebrauch der Methoden der Korrelation schlägt die Theologie folgenden Weg ein: Sie gibt eine Analyse der menschlichen Situation, und sie zeigt, dass die Symbole der christlichen Botschaft die Antworten auf diese Fragen sind.</q>"
+    },
+    "unique_id" : "paul-tillich",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Paul_Tillich",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffddcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1920" },
+    "end_date" : { "year": "1980" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Formgeschichte\" target=\"_blank\">Kritisch- formgeschichtliche Schule</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Aufnahme der Existenzphilosophie als Weg aus der Weltangst heraus zur Eigentlichkeit der Existenz</li>\n    <li>Programm der Entmythologisierung als existentiale Interpretation des Mythos</li>\n    <li>Betonung des aktuellen Kerygmas von der Heilstat Gottes in Christus</li>\n    <li>Auflösung des Gottesbildes (Gott = zwischenmenschliche Liebe) und Christusbildes (bloße Existenz)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-rudolf-bultmann\" onclick=\"timeline.goToId('rudolf-bultmann');\">Rudolf Bultmann</a></li></ul>"
+    },
+    "unique_id" : "kritisch--formgeschichtliche-schule",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Formgeschichte",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2d9"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1883" },
+    "end_date" : { "year": "1976" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Rudolf_Bultmann\" target=\"_blank\">Rudolf Bultmann</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-kritisch--formgeschichtliche-schule\" onclick=\"timeline.goToId('kritisch--formgeschichtliche-schule');\">Kritisch- formgeschichtliche Schule</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/a/a0/Rudolf_Bultmann_Portrait.jpg\" height=\"160px\"/><q class=\"q\">Die Mythologie, in deren Begrifflichkeit das NT redet, ist im Wesentlichen die der jüdischen Apokalyptik und des gnostischen Erlösungsmythos... Nun ist es die Aufgabe diese Mythologie existential zu interpretieren.</q>"
+    },
+    "unique_id" : "rudolf-bultmann",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Rudolf_Bultmann",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9f2d9"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1960" },
+    "end_date" : { "year": "1970" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Gott-ist-tot-Theologie\" target=\"_blank\">Gott-ist-tot-Theologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Entwicklung eines christlichen Atheismus ohne Gottesvorstellung (USA) bzw. ohne traditionelle Gottesvorstellung (Europa)</li>\n    <li>Neues Verständnis von Gott als zwischenmenschlichem Ereignis</li>\n    <li>Auflösung der Einzigartigkeit Christi ins rein Humane hinein</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-dorothee-soelle\" onclick=\"timeline.goToId('dorothee-soelle');\">Dorothee Sölle</a></li></ul>"
+    },
+    "unique_id" : "gott-ist-tot-theologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Gott-ist-tot-Theologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9e6f2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1929" },
+    "end_date" : { "year": "2003" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Dorothee_S%C3%B6lle\" target=\"_blank\">Dorothee Sölle</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-gott-ist-tot-theologie\" onclick=\"timeline.goToId('gott-ist-tot-theologie');\">Gott-ist-tot-Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dorothee_S%C3%B6lle_%281981%29.jpg/320px-Dorothee_S%C3%B6lle_%281981%29.jpg\" height=\"160px\"/><q class=\"q\">Das härteste Argument gegen Gott ist nicht, dass er nicht mehr existiert oder sich selbst zurückgezogen hat, sondern dass wir ihn nicht mehr brauchen... Was wir brauchen, ist Liebe.</q>"
+    },
+    "unique_id" : "dorothee-soelle",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Dorothee_S%C3%B6lle",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#d9e6f2"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1970" },
+    "end_date" : { "year": "2000" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Befreiungstheologie\" target=\"_blank\">Befreiungstheologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Aktuelle Kontextualisierung der Bibeltexte</li>\n    <li>Betonung der Wichtigkeit der Praxis und der Soziologie</li>\n    <li>Herausarbeitung der ideologischen Abhängigkeit der Theologie</li>\n    <li>Politisch-soziale Befreiung Unterdrückter als Zielsetzung mit marxistischen Einflüssen</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-juan-luis-segundo\" onclick=\"timeline.goToId('juan-luis-segundo');\">Juan Luis Segundo</a></li></ul>"
+    },
+    "unique_id" : "befreiungstheologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Befreiungstheologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1925" },
+    "end_date" : { "year": "1996" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Juan_Luis_Segundo\" target=\"_blank\">Juan Luis Segundo</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-befreiungstheologie\" onclick=\"timeline.goToId('befreiungstheologie');\">Befreiungstheologie</a>\n    </div><q class=\"q\">So darf es niemanden wundern, daß die Dependenztheorie bei allen positiven Ergebnissen heute doch ein zu grobes Werkzeug ist, um die innere Dynamik eines jeden Landes wie auch die Ausmaße der Welt der Armen insgesamt in den Blick zu nehmen.</q>"
+    },
+    "unique_id" : "juan-luis-segundo",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Juan_Luis_Segundo",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ebccff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1980" },
+    "end_date" : { "year": "2017" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Feministische_Theologie\" target=\"_blank\">Feministische Theologie</a>",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Bekämpfung von Sexismus und Androzentrismus</li>\n    <li>Feminisierung der Gesellschaft (Matriarchat, Frauenquote)</li>\n    <li>Feminisierung der Exegese (Konzentration auf Frauentexte)</li>\n    <li>Feminisierung der Sprache (inklusiv, Bibel in gerechter Sprache)</li>\n    <li>Feminisierung des Gottesbildes (Jesa Christa, Heilige Geistin)</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-elisabeth-moltmann---wendel\" onclick=\"timeline.goToId('elisabeth-moltmann---wendel');\">Elisabeth Moltmann - Wendel</a></li></ul>"
+    },
+    "unique_id" : "feministische-theologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Feministische_Theologie",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffebcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1926" },
+    "end_date" : { "year": "2016" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Elisabeth_Moltmann-Wendel\" target=\"_blank\">Elisabeth Moltmann - Wendel</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-feministische-theologie\" onclick=\"timeline.goToId('feministische-theologie');\">Feministische Theologie</a>\n    </div><q class=\"q\">Feministische Theologie ist mehr als eine Dokumentation feministisch – politischer Correctness. Sie öffnet einen Weg in die Freiheit, selber zu denken und zu handeln: „Nein danke, ich denke selber“, sagt zu Recht die Philosophin Annegret Stopczyk.</q>"
+    },
+    "unique_id" : "elisabeth-moltmann---wendel",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Elisabeth_Moltmann-Wendel",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#ffebcc"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1990" },
+    "end_date" : { "year": "2017" },
+    "text" : {
+      "headline" : "Tiefenpsychologische Theologie",
+      "text" : "<p>Charakteristika:</p>\n<ul><li>Kritik an der historisch-kritischen Bibelwissenschaft</li>\n    <li>Tiefenpsychologische Interpretation der Bibeltexte in archetypischen Bildern und Symbolen</li>\n    <li>Radikale Umdeutung historischer Glaubensereignisse mit Hilfe von Psychoanalyse, Rationalismus, Mystik, Philosophie, Poesie usw.</li></ul><br><p>Vertreter:</p><ul class=\"author\"><li><a href=\"#event-eugen-drewermann\" onclick=\"timeline.goToId('eugen-drewermann');\">Eugen Drewermann</a></li></ul>"
+    },
+    "unique_id" : "tiefenpsychologische-theologie",
+    "group" : "Liberale Schulen",
+    "media" : {
+      "url" : "",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e6faff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  }, {
+    "start_date" : { "year": "1940" },
+    "end_date" : { "year": "2017" },
+    "text" : {
+      "headline" : "<a href=\"https://de.wikipedia.org/wiki/Eugen_Drewermann\" target=\"_blank\">Eugen Drewermann</a>",
+      "text" : "\n    <div class=\"ph\">\n        <a href=\"#event-tiefenpsychologische-theologie\" onclick=\"timeline.goToId('tiefenpsychologische-theologie');\">Tiefenpsychologische Theologie</a>\n    </div><img class=\"im\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eugen_Drewermann_2010.JPG/253px-Eugen_Drewermann_2010.JPG\" height=\"160px\"/><q class=\"q\">Die tiefpsychologische Deutung eines biblischen Textes bildet die notwendige Grundlage einer theologischen Deutung.</q>"
+    },
+    "unique_id" : "eugen-drewermann",
+    "group" : "Spekulationstheologen",
+    "media" : {
+      "url" : "https://de.wikipedia.org/wiki/Eugen_Drewermann",
+      "caption" : "",
+      "credit" : "",
+      "thumbnail" : ""
+    },
+    "display_date" : "",
+    "markerBackground" : {
+      "url" : null,
+      "color" : "#e6faff"
+    },
+    "background" : {
+      "url" : null,
+      "color" : ""
+    }
+  } ],
+  "eras" : [ ]
+}
