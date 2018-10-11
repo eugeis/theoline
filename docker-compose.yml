@@ -14,7 +14,7 @@ services:
         - traefik.enable=true
         - traefik.nginx.port=80
         - traefik.frontend.entryPoints.http.redirect=https
-        - traefik.frontend.rule=Host:theoline.tk
+        - traefik.frontend.rule=Host:theoline.tk,eisler.tk,eisler.online
 
 networks:
   net:
