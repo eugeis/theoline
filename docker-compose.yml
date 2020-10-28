@@ -3,18 +3,18 @@ version: '3.7'
 services:
   nginx:
     image: nginx
+    container_name: theoline
     #ports:
     # - 80:80
     volumes:
       - /home/ee/docker/theoline:/usr/share/nginx/html:ro
     networks:
       - net
-    deploy:
-      labels:
-        - traefik.enable=true
-        - traefik.nginx.port=80
-        - traefik.frontend.entryPoints.http.redirect=https
-        - traefik.frontend.rule=Host:theoline.tk,eisler.tk,eisler.online
+    labels:
+      - traefik.enable=true
+      - traefik.nginx.port=80
+      - traefik.frontend.entryPoints.http.redirect=https
+      - traefik.frontend.rule=Host:www.theoline.reguel.de,theoline.reguel.de
 
 networks:
   net:
